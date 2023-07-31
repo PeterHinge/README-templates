@@ -5,7 +5,7 @@
 [![Forks](https://img.shields.io/github/forks/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/pulls)
-[![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/peterhinge/README-templates/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/peterhinge/README-templates/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/graphs/contributors)
 
 
