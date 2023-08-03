@@ -9,9 +9,8 @@
 [![Contributors](https://img.shields.io/github/contributors/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/graphs/contributors)
 
 
-
-<!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
 
   <h2 align="center">README-Templates</h2>
@@ -64,7 +63,7 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!-- TECH STACK -->
 ### Tech Stack
 
 Tech stack examples.
@@ -82,6 +81,8 @@ Tech stack examples.
 
 How to get started
 
+
+<!-- REQUIREMENTS -->
 ### Requirements
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
