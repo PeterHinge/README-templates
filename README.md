@@ -33,7 +33,6 @@
 
 <!-- TABLE OF CONTENTS -->
 <div align="center">
-  <details>
     <summary>Table of Contents</summary>
     <ol>
       <li>
@@ -51,7 +50,6 @@
       </li>
       <li><a href="#license">License</a></li>
     </ol>
-  </details>
 </div>
 
 
