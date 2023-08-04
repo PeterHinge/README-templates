@@ -29,6 +29,7 @@
   </p>
 </div>
 
+<br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -74,7 +75,7 @@ Tech stack examples.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<br>
 
 <!-- GETTING STARTED -->
 ## Getting Started
