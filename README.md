@@ -20,7 +20,7 @@
     <br />
     <a href="https://github.com/peterhinge/README-templates">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/peterhinge/README-templates/issues">Report Bug</a>
     ·
     <a href="https://github.com/peterhinge/README-templates/pulls">Make Pull Request</a>
     <br />
