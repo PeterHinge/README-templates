@@ -87,7 +87,7 @@ How to get started
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [!(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)(https://img.shields.io/pypi/pyversions/Markdown.svg)]
+* [![Python Versions](https://img.shields.io/pypi/pyversions/Markdown.svg)]
 * [![Django Versions](https://img.shields.io/pypi/pyversions/Markdown.svg)](https://www.djangoproject.com/)
 * [!(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)[>=5.3]](https://getbootstrap.com/)
 
