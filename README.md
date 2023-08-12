@@ -89,7 +89,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Python Versions](https://img.shields.io/pypi/pyversions/Markdown.svg)]
 * [![Django Versions](https://img.shields.io/pypi/pyversions/Markdown.svg)](https://www.djangoproject.com/)
-* [!(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)[>=5.3]](https://getbootstrap.com/)
+* [![Django Versions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)[>=5.3]](https://getbootstrap.com/)
 
 Find full in requrements.txt
 
