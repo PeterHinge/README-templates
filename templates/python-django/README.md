@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# README-Templates
+# Python + Django Template
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Stargazers](https://img.shields.io/github/stars/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/stargazers)
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <h2 align="center">README-Templates</h2>
+  <h2 align="center">Python + Django Template</h2>
 
   <p align="center">
     A collection of README templates!
@@ -66,7 +66,9 @@ Use the `BLANK_README.md` to get started.
 <!-- TECH STACK -->
 ### Tech Stack
 
-<img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
 <!-- find more here: https://devicon.dev/ -->
 
@@ -83,10 +85,28 @@ How to get started
 <!-- REQUIREMENTS -->
 ### Requirements
 
+* [![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+* [![Django Versions](https://img.shields.io/badge/django-4.2-blue)](https://www.djangoproject.com/)
+* [![Bootstrap Versions](https://img.shields.io/badge/bootstrap-5.2-blue)](https://getbootstrap.com/)
+
 Find full in requrements.txt
 
 
 ### Installation
+
+1. Clone the reposetory
+   ```sh
+   git clone https://github.com/PeterHinge/README-templates.git
+   ```
+2. Install Python
+3. Install Django
+   ```sh
+   pip install django
+   ```
+4. Start the server 
+   ```sh
+   python manage.py runserver
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
