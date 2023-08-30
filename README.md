@@ -70,6 +70,8 @@ Use the `BLANK_README.md` to get started.
 <img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
+<!-- find more here: https://devicon.dev/ -->
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
