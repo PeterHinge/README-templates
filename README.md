@@ -87,9 +87,9 @@ How to get started
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python Versions](https://img.shields.io/badge/python->=3.10-blue)]
-* [![Django Versions](https://img.shields.io/badge/django->=4.2-blue)](https://www.djangoproject.com/)
-* [![Bootstrap Versions](https://img.shields.io/badge/bootstrap->=5.2-blue)](https://getbootstrap.com/)
+* [![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+* [![Django Versions](https://img.shields.io/badge/django-4.2-blue)](https://www.djangoproject.com/)
+* [![Bootstrap Versions](https://img.shields.io/badge/bootstrap-5.2-blue)](https://getbootstrap.com/)
 
 Find full in requrements.txt
 
