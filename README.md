@@ -16,7 +16,7 @@
   <h2 align="center">README-Templates</h2>
 
   <p align="center">
-    A collectiong of README templates!
+    A collection of README templates!
     <br />
     <a href="https://github.com/peterhinge/README-templates">View Demo</a>
     ·
@@ -55,8 +55,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
 
 Use the `BLANK_README.md` to get started.
 
