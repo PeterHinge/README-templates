@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Python + Django Template
+# Python Template
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Stargazers](https://img.shields.io/github/stars/peterhinge/README-templates.svg)](https://github.com/peterhinge/README-templates/stargazers)
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <h2 align="center">Python + Django Template</h2>
+  <h2 align="center">Python Template</h2>
 
   <p align="center">
     A collection of README templates!
@@ -67,8 +67,6 @@ Use the `BLANK_README.md` to get started.
 ### Tech Stack
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
 <!-- find more here: https://devicon.dev/ -->
 
@@ -85,9 +83,7 @@ How to get started
 <!-- REQUIREMENTS -->
 ### Requirements
 
-* [![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
-* [![Django Versions](https://img.shields.io/badge/django-4.2-blue)](https://www.djangoproject.com/)
-* [![Bootstrap Versions](https://img.shields.io/badge/bootstrap-5.2-blue)](https://getbootstrap.com/)
+[![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
 
 Find full in requrements.txt
 
@@ -99,14 +95,6 @@ Find full in requrements.txt
    git clone https://github.com/PeterHinge/README-templates.git
    ```
 2. Install Python: https://www.python.org/
-3. Install Django
-   ```sh
-   pip install django
-   ```
-4. Start the server 
-   ```sh
-   python manage.py runserver
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
